@@ -8,6 +8,7 @@ public class AdinterfaceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AdinterfaceApplication.class, args);
+        System.out.println("success start");
     }
 
 }
